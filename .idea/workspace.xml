@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a744efe0-b0ed-4582-a8a6-a72d2e83473c" name="Changes" comment="data scraper complete">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model train/model_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/new-pune-shivajinagar-2018-01-01-to-2024-10-05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scraper/new-pune-shivajinagar-2023-01-29-to-2024-10-05.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/pune-shivajinagar-2024-05-29" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/pune-shivajinagar-2024-05-29-to-2024-10-05" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/pune-shivajinagar-2024-05-29-to-2024-10-05.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scraper/weather_scraper.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/scraper/weather_scraper.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2n0af7GCpEN0gLGeE4QheZJMQ2e" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -33,15 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.weather_scraper.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.model_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.weather_scraper.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="python weather pipeline" />
